@@ -27,8 +27,8 @@ Currently I'm not available for hire.
 Drop me a line at [naoki.l.peter@gmail.com](mailto:naoki.l.peter@gmail.com).
 
 <ul class="social-media-list">
-  <li><a href="https://github.com/naokipeter"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">Github</span></a></li>
-  <li><a href="https://www.linkedin.com/in/naokipeter/"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">LinkedIn</span></a></li>
+  <li><a href="https://github.com/naokipeter"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">naokipeter</span></a></li>
+  <li><a href="https://www.linkedin.com/in/naokipeter/"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">naokipeter</span></a></li>
 </ul>
 
 _Last updated: January 1, 2018_
