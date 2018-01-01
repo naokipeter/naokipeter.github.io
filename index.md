@@ -5,7 +5,7 @@
 
 I'm a web enthusiast, currently based in Zurich, Switzerland, working as a freelance web developer (full-stack). In the past I also tried my hand at tech entrepreneurship and backend software engineering.
 
-I have degrees in Computer Science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in Linguistics from the University of Bern.
+I have degrees in Computer Science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in Linguistics from the University of Bern (MA).
 
 Currently I'm not available for hire.
 
