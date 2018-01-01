@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/naokipeter/naokipeter.github.io/master/assets/naoki.jpg" alt="Naoki Peter" align="right" width="200" height="272" style="margin: 1em">
+<picture>
+ <source srcset="https://raw.githubusercontent.com/naokipeter/naokipeter.github.io/master/assets/naoki.jpg" media="(min-width: 768px)">
+ <img src="https://raw.githubusercontent.com/naokipeter/naokipeter.github.io/master/assets/naoki_sm.jpg" alt="Naoki Peter" align="right" style="margin: 1em">
+</picture>
 
 I'm a web enthusiast, currently based in Zurich, Switzerland, working as a freelance web application developer. In the past I also tried my hand at tech entrepreneurship and backend software engineering. I have degrees in Computer Science from ETH Zurich (BSc) and EPFL (MSc).
 
