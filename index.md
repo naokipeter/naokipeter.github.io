@@ -1,6 +1,6 @@
 I'm a web enthusiast, currently based in Zurich, Switzerland, working as a freelance web application developer. In the past I also tried my hand at tech entrepreneurship and backend software engineering.
 
-👉&amp;&amp;[LinkedIn profile (CV)](https://www.linkedin.com/in/naokipeter/)
+👉&nbsp;&nbsp;[LinkedIn profile (CV)](https://www.linkedin.com/in/naokipeter/)
 
 Currently I'm not available for hire.
 
