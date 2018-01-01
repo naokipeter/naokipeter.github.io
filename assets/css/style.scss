@@ -4,20 +4,20 @@
 @import "{{ site.theme }}";
 
 .project-name {
-    margin-top: 2rem;
+  margin-top: 2rem;
 }
 
 .page-header {
-    background-image: url(https://raw.githubusercontent.com/naokipeter/naokipeter.github.io/master/assets/zurich.jpg);
-    background-position: center 60%;
-    background-size: cover;
+  background-image: url(https://raw.githubusercontent.com/naokipeter/naokipeter.github.io/master/assets/zurich.jpg);
+  background-position: center 60%;
+  background-size: cover;
 }
 
 .svg-icon {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    fill: #606c71;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: #606c71;
 }
 
 ul.social-media-list {
@@ -25,5 +25,14 @@ ul.social-media-list {
   padding-left: 0;
   li + li {
     padding-top: 5px;
+  }
+}
+
+a {
+  .social-media-list &:hover {
+  text-decoration: none;
+
+  .username {
+    text-decoration: underline;
   }
 }
