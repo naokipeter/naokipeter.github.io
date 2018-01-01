@@ -7,11 +7,6 @@ I'm a web enthusiast, currently based in Zurich, Switzerland, working as a freel
 
 I have degrees in Computer Science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in Linguistics from the University of Bern.
 
-<ul class="social-media-list">
-  <li><a href="https://github.com/naokipeter"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">Github</span></a></li>
-  <li><a href="https://www.linkedin.com/in/naokipeter/"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">LinkedIn</span></a></li>
-</ul>
-
 Currently I'm not available for hire.
 
 ## Past projects
@@ -31,5 +26,9 @@ Currently I'm not available for hire.
 ## Contact
 Drop me a line at [naoki.l.peter@gmail.com](mailto:naoki.l.peter@gmail.com).
 
+<ul class="social-media-list">
+  <li><a href="https://github.com/naokipeter"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">Github</span></a></li>
+  <li><a href="https://www.linkedin.com/in/naokipeter/"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">LinkedIn</span></a></li>
+</ul>
 
 _Last updated: January 1, 2018_
