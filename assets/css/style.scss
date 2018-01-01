@@ -34,9 +34,10 @@ ul.social-media-list {
 
 a {
   .social-media-list &:hover {
-  text-decoration: none;
+    text-decoration: none;
 
-  .username {
-    text-decoration: underline;
+    .username {
+      text-decoration: underline;
+    }
   }
 }
