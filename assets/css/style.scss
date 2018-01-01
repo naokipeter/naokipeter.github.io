@@ -18,10 +18,11 @@
     height: 16px;
     display: inline-block;
     fill: #606c71;
-    vertical-align: text-top;
 }
 
-.social-media-list {
+ul.social-media-list {
+  list-style-type: none;
+  padding-left: 0;
   li + li {
     padding-top: 5px;
   }
