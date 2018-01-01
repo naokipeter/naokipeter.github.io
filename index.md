@@ -1,13 +1,13 @@
 I'm a web enthusiast, currently based in Zurich, Switzerland, working as a freelance web application developer. In the past I also tried my hand at tech entrepreneurship and backend software engineering.
 
-👉  [LinkedIn profile (CV)](https://www.linkedin.com/in/naokipeter/)
+👉&amp;&amp;[LinkedIn profile (CV)](https://www.linkedin.com/in/naokipeter/)
 
 Currently I'm not available for hire.
 
 ## Past projects
-- [Raise - Free Donation Plugin for WordPress](https://ea-foundation.org/donate/) (PHP/JavaScript) | [Github](https://github.com/ea-foundation/raise)
+- [Raise - Free Donation Plugin for WordPress](https://ea-foundation.org/donate/) (PHP/JavaScript) \| [Github](https://github.com/ea-foundation/raise)
 - [Teleboy TV API](http://www.teleboy.ch/) (PHP)
-- [Vidinoti PixLive Editor](https://armanager.vidinoti.com/) (PHP/Objective-J/JavaScript) | [Video](https://www.youtube.com/watch?v=dHTm1JAOaFw)
+- [Vidinoti PixLive Editor](https://armanager.vidinoti.com/) (PHP/Objective-J/JavaScript) \| [Video](https://www.youtube.com/watch?v=dHTm1JAOaFw)
 
 ## Some areas of interest
 - Web development
