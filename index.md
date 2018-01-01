@@ -5,7 +5,7 @@
 
 I'm a web enthusiast, currently based in Zurich, Switzerland, working as a freelance web application developer. In the past I also tried my hand at tech entrepreneurship and backend software engineering. I have degrees in Computer Science from ETH Zurich (BSc) and EPFL (MSc).
 
-👉&nbsp;&nbsp;[LinkedIn profile (CV)](https://www.linkedin.com/in/naokipeter/)
+:point_right: [LinkedIn profile (CV)](https://www.linkedin.com/in/naokipeter/)
 
 Currently I'm not available for hire.
 
@@ -25,5 +25,6 @@ Currently I'm not available for hire.
 
 ## Contact
 Drop me a line at [naoki.l.peter@gmail.com](mailto:naoki.l.peter@gmail.com).
+
 
 _Last updated: January 1, 2018_

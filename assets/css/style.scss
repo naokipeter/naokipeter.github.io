@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.project-name {
+    margin-top: 2rem;
+}
+
+.page-header {
+    background-image: url(https://raw.githubusercontent.com/naokipeter/naokipeter.github.io/master/assets/zurich.jpg);
+    background-position: center 60%;
+    background-size: cover;
+}
