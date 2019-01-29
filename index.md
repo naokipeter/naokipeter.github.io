@@ -10,6 +10,7 @@ I have degrees in Computer Science from ETH Zurich (BSc) and EPFL (MSc) as well 
 Currently I'm not available for hire.
 
 ## Past projects
+- [Sentient Machines - Sentient Analytics Dashboard](http://sentientmachines.tech/) (JavaScript (React) and Scala (Play))
 - [80,000 Hours - Job Board](https://80000hours.org/job-board/) (PHP/JavaScript)
 - [80,000 Hours - Podcast](https://80000hours.org/podcast/) (PHP/JavaScript)
 - [Raise - Free Donation Plugin for WordPress](https://ea-foundation.org/donate/) (PHP/JavaScript) &#124; [Github](https://github.com/ea-foundation/raise)
