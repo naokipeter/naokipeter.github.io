@@ -5,11 +5,14 @@
 
 I'm a web enthusiast, currently based in Zurich, Switzerland, working as a freelance web developer (full-stack). In the past I also tried my hand at tech entrepreneurship and backend software engineering.
 
-I have degrees in Computer Science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in Linguistics from the University of Bern (MA).
+I have degrees in computer science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in linguistics from the University of Bern (MA).
+
+I'm interested in [Effective Altruism](https://effectivealtruism.ch/) and I give short talks about it at philanthropy meetups.
 
 Currently I'm not available for hire.
 
 ## Past projects
+- [Yuno - Yuno App](https://www.yuno.link/) (JavaScript/React and Node.js/Express)
 - [Sentient Machines - Sentient Analytics Dashboard](http://sentientmachines.tech/livedemo) (JavaScript/React and Scala/Play)
 - [80,000 Hours - Job Board](https://80000hours.org/job-board/) (PHP/JavaScript)
 - [80,000 Hours - Podcast](https://80000hours.org/podcast/) (PHP/JavaScript)
