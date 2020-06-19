@@ -3,27 +3,26 @@
  <img src="https://raw.githubusercontent.com/naokipeter/naokipeter.github.io/master/assets/naoki_sm.jpg" alt="Naoki Peter" align="right" class="avatar">
 </picture>
 
-I'm a web enthusiast, currently based in Zurich, Switzerland, working as a freelance web developer (full-stack). In the past I also tried my hand at tech entrepreneurship and backend software engineering.
+I'm a web enthusiast, currently based in Zurich, Switzerland, working as a computer science teacher and freelance web developer (full-stack). You can find links to some of my recent projects below.
 
-I have degrees in computer science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in linguistics from the University of Bern (MA).
+I have degrees in computer science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in linguistics from the University of Bern (MA). Currently I'm completing training for the high school teaching diploma in computer science at ETH Zurich.
 
 I'm interested in [Effective Altruism](https://effectivealtruism.ch/) and I give short talks about it at philanthropy meetups.
 
 Currently I'm not available for hire.
 
-## Past projects
+## Recent projects
 - [Yuno - Yuno App](https://www.yuno.link/) (JavaScript/React and Node.js/Express)
 - [Sentient Machines - Sentient Analytics Dashboard](http://sentientmachines.tech/livedemo) (JavaScript/React and Scala/Play)
 - [80,000 Hours - Job Board](https://80000hours.org/job-board/) (PHP/JavaScript)
 - [80,000 Hours - Podcast](https://80000hours.org/podcast/) (PHP/JavaScript)
 - [Raise - Free Donation Plugin for WordPress](https://ea-foundation.org/donate/) (PHP/JavaScript) &#124; [Github](https://github.com/ea-foundation/raise)
-- [Teleboy TV API](http://www.teleboy.ch/) (PHP)
 - [Vidinoti PixLive Editor](https://armanager.vidinoti.com/) (PHP/Objective-J/JavaScript) &#124; [Video](https://www.youtube.com/watch?v=dHTm1JAOaFw)
 
 ## Some areas of interest
 - Web development
+- Teaching
 - Tech entrepreneurship
-- Digital marketing
 - Effective Altruism
 - Rationality
 - Languages
