@@ -5,7 +5,7 @@
 
 I'm a web enthusiast, currently based in Zurich, Switzerland, working as a computer science teacher and freelance web developer (full-stack). You can find links to some of my recent projects below.
 
-I have degrees in computer science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in linguistics from the University of Bern (MA). Currently I'm completing training for the high school teaching diploma in computer science at ETH Zurich.
+I have degrees in computer science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in linguistics from the University of Bern (MA). Currently I'm training to be a high school teacher in computer science.
 
 I'm interested in [Effective Altruism](https://effectivealtruism.ch/) and I give short talks about it at philanthropy meetups.
 
