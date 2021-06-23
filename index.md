@@ -13,7 +13,7 @@ Currently I'm not available for hire.
 
 ## Recent projects
 - [Yuno - Yuno App](https://www.yuno.link/) (JavaScript/React and Node.js/Express)
-- [Sentient Machines - Sentient Analytics Dashboard](http://sentientmachines.tech/livedemo) (JavaScript/React and Scala/Play)
+- [Sentient Machines - Sentient Analytics Dashboard](https://sentientmachines.tech/) (JavaScript/React and Scala/Play)
 - [80,000 Hours - Job Board](https://80000hours.org/job-board/) (PHP/JavaScript)
 - [80,000 Hours - Podcast](https://80000hours.org/podcast/) (PHP/JavaScript)
 - [Raise - Free Donation Plugin for WordPress](https://ea-foundation.org/donate/) (PHP/JavaScript) &#124; [Github](https://github.com/ea-foundation/raise)
