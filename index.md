@@ -15,7 +15,6 @@ Currently I'm not available for hire.
 - [Yuno - Yuno App](https://www.yuno.link/) (JavaScript/React and Node.js/Express)
 - [Sentient Machines - Sentient Analytics Dashboard](https://sentientmachines.tech/) (JavaScript/React and Scala/Play)
 - [80,000 Hours - Job Board](https://80000hours.org/job-board/) (PHP/JavaScript)
-- [80,000 Hours - Podcast](https://80000hours.org/podcast/) (PHP/JavaScript)
 - [Raise - Free Donation Plugin for WordPress](https://ea-foundation.org/donate/) (PHP/JavaScript) &#124; [Github](https://github.com/ea-foundation/raise)
 - [Vidinoti PixLive Editor](https://armanager.vidinoti.com/) (PHP/Objective-J/JavaScript) &#124; [Video](https://www.youtube.com/watch?v=dHTm1JAOaFw)
 
