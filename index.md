@@ -3,7 +3,7 @@
  <img src="https://raw.githubusercontent.com/naokipeter/naokipeter.github.io/master/assets/naoki_sm.jpg" alt="Naoki Peter" align="right" class="avatar">
 </picture>
 
-I'm a web enthusiast, currently based in Zurich, Switzerland, working as a computer science teacher and freelance web developer (full-stack). You can find links to some of my recent projects below.
+I'm a web enthusiast, currently based in Zurich, Switzerland, working as a computer science teacher and freelance web developer (full-stack). You can find links to some of my past projects below.
 
 I have degrees in computer science from ETH Zurich (BSc) and EPFL (MSc) as well as a degree in linguistics from the University of Bern (MA). Currently I'm training to be a high school teacher in computer science.
 
