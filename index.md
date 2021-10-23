@@ -25,7 +25,7 @@ Currently I'm not available for hire.
 - Effective Altruism
 - Rationality
 - Languages
-- Cycling
+- Bikepacking
 
 ## Contact
 Drop me a line at [naoki.l.peter@gmail.com](mailto:naoki.l.peter@gmail.com).
