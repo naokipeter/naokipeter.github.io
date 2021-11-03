@@ -14,7 +14,7 @@ Currently I'm not available for hire.
 - [Sentient Machines - Sentient Analytics Dashboard](https://sentientmachines.tech/) (JavaScript/React and Scala/Play)
 - [80,000 Hours - Job Board](https://80000hours.org/job-board/) (PHP/JavaScript)
 - [Raise - Free Donation Plugin for WordPress](https://ea-foundation.org/donate/) (PHP/JavaScript) &#124; [Github](https://github.com/ea-foundation/raise)
-- [Vidinoti PixLive Editor](https://armanager.vidinoti.com/) (PHP/Objective-J/JavaScript) &#124; [Video](https://www.youtube.com/watch?v=dHTm1JAOaFw)
+- [Vidinoti PixLive Editor](https://armanager.vidinoti.com/) (PHP/Objective-J/JavaScript) &#124; [Video](https://www.youtube.com/watch?v=E1g_qFyfwkM)
 
 ## Some areas of interest
 - Web development
