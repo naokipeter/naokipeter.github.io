@@ -10,7 +10,6 @@ In my spare time I serve on the board of a non-profit organizations in the anima
 Currently I'm not available for hire.
 
 ## Recent projects
-- Center on Long-Term Risk - Extensions to Internal Donation Management System (Python)
 - [Yuno - Yuno App](https://www.yuno.link/) (JavaScript/React and Node.js/Express)
 - [Sentient Machines - Sentient Analytics Dashboard](https://sentientmachines.tech/) (JavaScript/React and Scala/Play)
 - [80,000 Hours - Job Board](https://80000hours.org/job-board/) (PHP/JavaScript)
