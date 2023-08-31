@@ -3,9 +3,9 @@
  <img src="https://raw.githubusercontent.com/naokipeter/naokipeter.github.io/master/assets/naoki_sm.jpg" alt="Naoki Peter" align="right" class="avatar">
 </picture>
 
-I'm a web enthusiast, currently based in Zurich, Switzerland, working as a Computer Science Teacher and freelance Full Stack Developer. You can find links to some of my past projects below.
+I am a dedicated educator and a passionate web developer with a diverse background in teaching, software engineering and linguistics. Currently, I am shaping the future of young minds as a computer science teacher in Zurich while also developing web applications as a freelance web developer. You can find links to some of my past projects below.
 
-In my spare time I serve on the board of a non-profit organizations in the animal advocacy space.
+In my spare time I serve on the board of a non-profit organization in the animal advocacy space.
 
 Currently I'm not available for hire.
 
