@@ -10,7 +10,8 @@ In my spare time I serve on the board of a non-profit organization in the animal
 Currently I'm not available for hire.
 
 ## Recent projects
-- [Yuno - Yuno App](https://www.yuno.link/) (JavaScript/React and Node.js/Express)
+- Center on Long-Term Risk - Donation Management System (Python/JavaScript)
+- Yuno - Yuno App (JavaScript/React and Node.js/Express)
 - [Sentient Machines - Sentient Analytics Dashboard](https://sentientmachines.tech/) (JavaScript/React and Scala/Play)
 - [80,000 Hours - Job Board](https://80000hours.org/job-board/) (PHP/JavaScript)
 - [Raise - Free Donation Plugin for WordPress](https://ea-foundation.org/donate/) (PHP/JavaScript) &#124; [Github](https://github.com/ea-foundation/raise)
@@ -19,9 +20,8 @@ Currently I'm not available for hire.
 ## Some areas of interest
 - Web development
 - Teaching
+- [Effective Altruism](https://effectivealtruism.org/)
 - Tech entrepreneurship
-- [Effective Altruism](https://effectivealtruism.ch/)
-- Rationality
 - Languages
 - Bikepacking
 
